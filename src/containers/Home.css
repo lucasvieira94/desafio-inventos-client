@@ -1,0 +1,229 @@
+@media only screen and (min-width: 768px) {
+  .reserve-button {
+    float: right;
+  }
+
+  .kevin-nav {
+    height: 80px;
+    margin-left: 25px;
+    padding-bottom: 10px;
+  }
+
+  .logo-button {
+      font-size: 35px;
+      margin-top: 5px;
+  }
+
+  .presentation {
+    margin-top: 90px;
+  }
+
+  .presentation-content {
+    margin-left: 200px;
+    margin-bottom: 100px;
+  }
+
+  .explanation {
+    margin-top: 600px;
+    margin-left: 145px;
+  }
+
+  .explanation-content {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  .evil-minion {
+    margin-left: 200px;
+  }
+
+  .reasons {
+    margin-top: 680px;
+  }
+
+  .reasons-box {
+    padding-top: 400px;
+  }
+}
+
+.presentation {
+  background-color: #f7f130d6;
+  border-bottom: solid;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.presentation-content {
+  margin-top: 60px;
+}
+
+.first-presentation {
+  font-weight: bolder;
+  font-size: 70px;
+}
+
+.bob-presentation {
+  margin-right: 70px;
+}
+
+.reserve-button {
+  background-color: #ffdb2d;
+  border-color: black;
+  border-width: medium;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+
+.logo-button {
+  border-style: none;
+  font-weight: bolder;
+  background-color: transparent;
+}
+
+.navbar {
+  border-bottom: solid;
+  padding: 10px;
+  position: absolute;
+  background-color: lightskyblue;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  margin-bottom: 10px;
+}
+
+.explanation {
+  background-color: white;
+  position: absolute;
+  border: solid;
+}
+
+.explanation-content {
+  text-align: center;
+}
+
+.box-question {
+  font-size: 40px;
+  color: #4d6fd8;
+  font-weight: bolder;
+}
+
+.explanation-text {
+  font-weight: bold;
+  color: gray;
+  font-size: 20px;
+}
+
+.evil-minion {
+  height: 150px;
+}
+
+.reasons {
+  background-color: #2e59d4;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.reasons-box {
+  padding-top: 400px;
+  background-color: #2e59d4;
+}
+
+.reasons-title {
+  font-weight: bolder;
+  color: #fdda4f;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.gift-icon {
+  margin-left: 140px;
+}
+
+.slumber-icon {
+  margin-left: 115px;
+}
+
+.fist-icon {
+  height: 125px;
+  margin-left: 120px;
+}
+
+.reason-square {
+  margin: 25px;
+}
+
+.reason-title {
+  margin-top: 40px;
+  margin-left: 55px;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #fdda4f;
+}
+
+.reason-text {
+  margin-left: 40px;
+  color: #fdda4f;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.reserve-bottom-button {
+  background-color: #ffdb2d;
+  border-color: black;
+  border-width: medium;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .logo-button {
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+
+  .reserve-button {
+    margin-left: 110px;
+  }
+
+  .presentation {
+    margin-top: 180px;
+  }
+
+  .presentation-content {
+    margin-left: 20px;
+  }
+
+  .bob-presentation {
+    height: 300px;
+    position: relative;
+    bottom: 50px;
+    left: 45px;
+  }
+
+  .explanation {
+    margin-top: 900px;
+    left: 25px;
+    right: 25px;
+  }
+
+  .explanation-content {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .evil-minion {
+    margin-left: 85px;
+  }
+
+  .reasons {
+    margin-top: 980px;
+  }
+
+  .reasons-box {
+    padding-top: 500px;
+  }
+}

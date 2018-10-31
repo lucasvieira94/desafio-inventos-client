@@ -1,0 +1,12 @@
+@media all and (min-width: 480px) {
+
+  .NewReservation {
+    padding: 60px 0;
+  }
+
+  .NewReservation form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+}
